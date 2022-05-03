@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
 
 
+# Inicialização flask
 app = Flask(__name__)
 
 desenvolvedores = [
